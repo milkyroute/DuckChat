@@ -5,4 +5,4 @@ I plan to do a graphic interface with Qt... one day.
 Oh, and I forgot : It's french. I will translate it in english, one day.
 
 ## Dependences
-It uses the Qt libraries, and that's all.
+It uses the Qt5.12.0 libraries, and that's all.
